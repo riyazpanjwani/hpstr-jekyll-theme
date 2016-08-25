@@ -1,13 +1,13 @@
 {
-  "name": "Aryan's World",
-  "author": "Riyaz Panjwani <riyazpanjwani96@gmail.com>",
-  "homepage": "https://riyazpanjwani.github.io/",
+  "name": "hpstr-theme",
+  "author": "Michael Rose <michael@mademistakes.com>",
+  "homepage": "http://mmistakes.github.io/hpstr-jekyll-theme/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/riyazpanjwani/riyazpanjwani.github.io.git"
+    "url": "git://github.com/mmistakes/hpstr-jekyll-theme.git"
   },
   "bugs": {
-    "url": "https://riyazpanjwani.github.io/"
+    "url": "https://github.com/mmistakes/hpstr-jekyll-theme/issues"
   },
   "engines": {
     "node": ">= 0.10.0"

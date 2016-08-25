@@ -11,20 +11,20 @@ url:
 owner:
   name:           Riyaz Panjwani
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  bio:            "Loves to Code,Eat and Sleep :)"
   email:          riyazpanjwani96@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook: https://www.facebook.com/riyaz.panjwani.56
-  github:   https://github.com/riyazpanjwani      
+  facebook: riyaz.panjwani.56
+  github:   riyazpanjwani      
   stackexchange:  
   linkedin:       
-  instagram: https://www.instagram.com/riyaz.panjwani/      
+  instagram: riyaz.panjwani      
   flickr:
   Quora:    https://www.quora.com/profile/Riyaz-Panjwani         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus: https://plus.google.com/u/1/113468899882794040979
+  google_plus: 
 
 # Background image to be tiled on all pages
 background: 

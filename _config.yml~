@@ -1,5 +1,5 @@
-title:            Aryan's World
-description:      Welcome to my World.
+title:            Site Title
+description:      Describe your website here.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,22 +9,21 @@ url:
 
 # Owner/author information
 owner:
-  name:           Riyaz Panjwani
+  name:           Your Name
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          riyazpanjwani96@gmail.com
+  email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook: https://www.facebook.com/riyaz.panjwani.56
-  github:   https://github.com/riyazpanjwani      
+  facebook:       
+  github:         
   stackexchange:  
   linkedin:       
-  instagram: https://www.instagram.com/riyaz.panjwani/      
-  flickr:
-  Quora:    https://www.quora.com/profile/Riyaz-Panjwani         
+  instagram:      
+  flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus: https://plus.google.com/u/1/113468899882794040979
+  google_plus:
 
 # Background image to be tiled on all pages
 background: 
@@ -36,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    India/Allahabad
+timezone:    America/New_York
 future:      true
 highlighter: rouge
 markdown:    kramdown
